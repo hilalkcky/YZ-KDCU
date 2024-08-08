@@ -48,5 +48,6 @@
 *.bc filter=lfs diff=lfs merge=lfs -text
 CS-JAVA5.h5 filter=lfs diff=lfs merge=lfs -text
 rf_java.pkl filter=lfs diff=lfs merge=lfs -text
+rf_cs.pkl filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *pkl filter=lfs diff=lfs merge=lfs -text
